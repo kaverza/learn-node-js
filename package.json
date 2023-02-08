@@ -1,0 +1,23 @@
+{
+  "name": "learn-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "heads-or-tails.js",
+  "dependencies": {
+    "yargs": "^17.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaverza/learn-node-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaverza/learn-node-js/issues"
+  },
+  "homepage": "https://github.com/kaverza/learn-node-js#readme"
+}
